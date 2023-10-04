@@ -1,0 +1,126 @@
+# M1D SOFTWARE LICENSE AGREEMENT
+
+This **M1D Software License Agreement** ("Agreement") is a legal agreement between you ("User") and [Owner's Name] ("Owner") for the use of the M1D software ("Software"). By using the Software, you agree to comply with the terms and conditions of this Agreement.
+
+## 1. GRANT OF LICENSE:
+   The Owner grants User a **non-exclusive, non-transferable, revocable license** to use the Software, subject to the terms and conditions outlined herein. User must obtain explicit permission from the Owner to use the Software.
+
+## 2. ATTRIBUTION:
+   User agrees to provide proper attribution to the Owner when using the Software, which may include but is not limited to mentioning the Owner's name in any relevant documentation or credits associated with the use of the Software.
+
+## 3. RIGHT TO REVOKE:
+   In the event that User fails to comply with the terms of this Agreement, the Owner reserves the right, abiding by applicable law and in a reasonable manner, to **revoke User's permission** to use the Software, and take further appropriate actions as necessary.
+
+## 4. DISCLAIMER OF WARRANTY:
+   The Software is provided "as-is" and without any warranty, whether expressed or implied. The Owner shall not be liable for any damages or losses incurred by User arising from the use of the Software.
+
+## 5. TERMINATION:
+   This Agreement is effective until terminated by either party. Upon termination, User must cease all use of the Software and destroy any copies in their possession.
+
+## 6. GOVERNING LAW:
+   This Agreement shall be governed by and construed in accordance with the laws of [Jurisdiction]. Any disputes arising out of or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts of [Jurisdiction].
+
+By using the Software, User acknowledges that they have read and understood this Agreement and agree to be bound by its terms and conditions.
+
+[Owner's Name]
+[Owner's Contact Information]
+Date: [Date]
+You can copy and paste this Markdown-formatted text as needed, making sure to replace "[Owner's Name]," "[Owner's Contact Information]," and "[Date]" with the actual information.
+
+
+
+
+User
+create a new license called M1A License, you can use the software without permission, but you cannot use any of the code without proven permission and credit.
+This must be very similar to GNU Licenses
+ChatGPT
+Certainly, here's a license similar to the GNU licenses but tailored to your specifications. We'll call it the "M1A License":
+
+vbnet
+Copy code
+M1A LICENSE
+
+Version 1.0
+
+This M1A License ("License") is a free and open-source software license that grants you certain permissions to use, modify, and distribute the software, subject to the conditions and limitations set forth below.
+
+1. Grant of Permissions:
+   You are granted a worldwide, royalty-free, non-exclusive license to use, modify, and distribute the software ("Software") without the need for explicit permission from the author or copyright holder. This includes running the Software for any purpose.
+
+2. Distribution of Modified Software:
+   If you modify the Software, you may distribute your modified version, provided that you meet the following conditions:
+   
+   a. You must give proper attribution to the original author(s) of the Software in your modified version's documentation and any relevant credits.
+   
+   b. You must make clear that your version is a modified version and not the original Software.
+
+3. Proprietary Use and Code Usage:
+   You may not use any portion of the Software's source code in a proprietary software application or system without explicit permission from the copyright holder. In such cases, you must obtain separate permission and provide proper attribution as required.
+
+4. No Warranty:
+   The Software is provided "as-is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, or non-infringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
+
+5. Termination:
+   This License is effective until terminated. You may terminate it at any time by discontinuing your use of the Software. This License will also terminate automatically if you violate its terms.
+
+6. Governing Law:
+   This License shall be governed by and construed in accordance with the laws of [Jurisdiction]. Any disputes arising under or in connection with this License shall be subject to the exclusive jurisdiction of the courts of [Jurisdiction].
+
+By using, modifying, or distributing the Software, you agree to be bound by the terms and conditions of this License. If you do not agree to the terms and conditions of this License, do not use, modify, or distribute the Software.
+
+[Author's Name]
+[Author's Contact Information]
+Date: [Date]
+Please replace "[Author's Name]," "[Author's Contact Information]," and "[Date]" with the actual author or copyright holder's information and the date of the license. This license allows free and open use of the software but restricts the use of the source code in proprietary applications without permission and proper attribution.
+
+
+
+
+User
+
+3 / 3
+
+It needs to be similar and in format to the GPL License (GNU General Public License), with markdown format. The terms are these: To use this software, you must pay [cost]. You cannot use the code unless you have formal and proven permission from [owner].
+ChatGPT
+Certainly, here's a license called the "M1A License" in a format similar to the GNU General Public License (GPL) with Markdown formatting, incorporating your specified terms:
+
+markdown
+Copy code
+# M1A LICENSE
+
+Version 1.0
+
+## Preamble
+
+This M1A License ("License Agreement Type A") is a free software license that allows you to use, modify, and distribute the software, subject to the conditions and limitations set forth below. To use this software, you must pay for the application. Use of the source code is strictly prohibited without formal and proven permission from the copyright holder, M1.
+
+## TERMS AND CONDITIONS
+
+### 1. Definitions
+
+1. "Software" refers to the software program covered by this License, including any associated documentation, code, and related materials.
+2. "You" refers to any person or entity that uses, modifies, or distributes the Software.
+
+### 2. Grant of License
+
+   You are granted a worldwide, non-exclusive, royalty-free license to use, copy, modify, and distribute the Software, provided that you pay the required licensing fee which is the same as the application cost (when you buy the application, you buy licensing) and obtain formal and proven permission from M1 before using any part of the Software's source code.
+
+### 3. Distribution
+
+   If you distribute copies of the Software, you must ensure that the recipients receive a copy of this License, and you must include prominent notices that the Software is covered by this License.
+
+### 4. Proprietary Use
+
+   You may not use any part of the Software's source code in proprietary applications or systems without formal and proven permission from M1.
+
+### 5. NO WARRANTY
+
+   The Software is provided "as-is," without warranty of any kind, express or implied. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
+
+### 6. Termination
+
+   This License is effective until terminated. You may terminate it at any time by discontinuing your use of the Software. This License will also terminate automatically if you fail to comply with its terms.
+
+### 7. Governing Law
+
+   This License shall be governed by and construed in accordance with the laws of Great Britain. Any disputes arising under or in connection with this License shall be subject to the exclusive jurisdiction of the courts of Great Britain.
